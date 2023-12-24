@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm YongQin</h1>
-<h3 align="center">A Computer Science fresh student from Malaysia</h3>
+<h1>Hey🍥, I'm 🫧YongQin🫧!</h1>
+<h3>A Computer Science🖥️ fresh student👨‍💻 from Malaysia 🇲🇾</h3>
 <img align="right" alt="Coding" width="550" src="https://camo.githubusercontent.com/405ec87f325f46fb3b98dff86e47a3122360532127d9ea40aa9d78ce107b9d6a/68747470733a2f2f692e696d6775722e636f6d2f4c65756836776d2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yongq02&label=Profile%20views&color=0e75b6&style=flat" alt="yongq02" /> </p>
