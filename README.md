@@ -6,7 +6,9 @@
 
 - 🌱 I’m currently learning **Python&Linux Ubuntu**
 
-- 📫 How to reach me **wong.yongqin0610@gmail.com**
+- 📫 Email: **wong.yongqin0610@gmail.com**
+
+- 🦖 W3School: **https://www.w3profile.com/YongQin**
 
 - ⚡ Fun fact **I'm Absolutely Funny**
 
